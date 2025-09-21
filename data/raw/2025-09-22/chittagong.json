@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": 91.5,
+        "lat": 22.9167
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 25.09,
+        "feels_like": 26.16,
+        "temp_min": 25.09,
+        "temp_max": 25.09,
+        "pressure": 1004,
+        "humidity": 96,
+        "sea_level": 1004,
+        "grnd_level": 1002
+    },
+    "visibility": 8717,
+    "wind": {
+        "speed": 1.39,
+        "deg": 121,
+        "gust": 2.3
+    },
+    "rain": {
+        "1h": 3.16
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1758495946,
+    "sys": {
+        "country": "BD",
+        "sunrise": 1758498158,
+        "sunset": 1758541861
+    },
+    "timezone": 21600,
+    "id": 1337200,
+    "name": "Chittagong",
+    "cod": 200
+}
